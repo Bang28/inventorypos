@@ -10,9 +10,8 @@ cara install :
 5. Enjoy
 
 SS Halaman Login :
-![image.png]( {https://github.com/Bang28/dokumentasi/blob/main/login.png} ) 
+![login](https://github.com/Bang28/dokumentasi/assets/56897116/63710aae-43f9-4f7e-8800-6b151866873f)
 
 SS Halaman Dashboard :
-![image.png]( {https://github.com/Bang28/dokumentasi/blob/main/dashboard.png} ) 
-
+![dashboard](https://github.com/Bang28/dokumentasi/assets/56897116/175465ce-df58-42d3-a7bc-e3a041222e69)
 
